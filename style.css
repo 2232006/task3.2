@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+ width: 100%;
+}
+
+.section1{
+    width: 100%;
+    text-align: center;
+    background-image: url(/task3/bg-header-desktop.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.sec1child{
+    margin: auto;
+    padding: 60px;
+text-align: center;
+}
+h3,h4,h2{
+    font-size: 35px;
+    color: rgb(44, 45, 45);
+}
+h5{
+    font-size: 20px;
+    color: rgb(21, 20, 20);
+}
+p{
+    color: rgb(99, 95, 95);
+}
+.buttons{
+    padding-top: 20px;
+}
+button{
+    width: 160px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: white;
+}
+.button1{
+    background-color: rgb(42, 189, 152);
+}
+.button2{
+    background-color: rgb(76, 62, 206);
+}
+.sec1child img{
+    width: 90px;
+}
+.computer{
+    width: 50%;
+    float: left;
+
+}
+.section3{
+    margin-top: 100px;
+margin-bottom: 50px;
+}
+.section2{
+    text-align: center;
+}
+.computer img{
+    width:95%;
+  
+
+}
+.sec3smalldives{
+margin-left: 50px;
+float: left;
+width: 20%;
+
+}
+.clear-fix{
+    clear: both;
+}
+.section4{
+    margin-top: 90px;
+    line-height: 20px;
+    text-align: center;
+}
+.devices{
+    margin-top: 90px;
+    text-align: center;
+}
+.section5{
+    line-height: 20px;
+    text-align: center;
+}
+.section6{
+    margin-top: 80px;
+    text-align: center;
+}
+.items{
+    line-height: 15px;
+    float: left;
+    width: 33%;
+text-align: center;
+}
+.logos{
+    margin-top: 170px;
+    text-align: center;
+}
+.logo{
+    float: left;
+    width: 20%;
+
+}
+.leftfooter,.rightfooter,.icons,.footeritem{
+    float: left;
+   
+}
+.leftfooter ul{
+    list-style: none;
+}
+.leftfooter{
+    width: 70%;
+    margin-top: 15px;
+    margin-left: 130px;
+}
+.footeritem{
+    width: 20%;
+}.rightfooter img{
+width: 90%;
+}
+.leftfooter img{
+    width:20%;
+    margin-bottom: 10px;
+}
+.icons{
+    width: 15%;
+}
+
+.leftfooter  li{
+    line-height: 30px;
+    color: rgb(30, 29, 29);
+}
+.rightfooter {
+    margin-left: 140px;
+    margin-top: 30px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+.icons{
+    padding-left: 20px;
+}
+.copy{
+    margin-top: 10px;
+}
+.footer{
+width: 100%;
+height: 110px;
+margin-top: 60px;
+    background-color: rgb(236, 230, 230);
+
+}
